@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vadym Fesiuk
-- 👀 I’m interested in Web Developing and UX/UI Design
+- 👀 I’m interested in Web Development and UX/UI Design
 - 🌱 I’m currently learning Web Dev
 - 📫 You can contact me by Email: vadymfesiuk@gmail.com
 
